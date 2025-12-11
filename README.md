@@ -7,7 +7,7 @@
 | `predictor.py` | Model loading and inference |
 | `requirements.txt` | Python dependencies |
 
-## Option A: Process Entire File (Recommended)
+
 
 
 ```python
