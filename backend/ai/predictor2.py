@@ -30,8 +30,9 @@ from scipy.signal import firwin, filtfilt
 
 MODELS_DIR = os.environ.get(
     "SEIZURE_MODELS_DIR",
-    "D:/grad_Proj/experiments/chb01/checkpoints"
+    "C:/Users/sara_/PycharmProjects/AuraAlert/backend/ai/checkpoints"
 )
+
 THRESHOLD = 0.5
 SEGMENT_SAMPLES = 1280  # 5 seconds @ 256 Hz
 EXPECTED_CHANNELS = 23
